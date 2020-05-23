@@ -10,7 +10,8 @@ CARRERA: INGENIERIA DE SISTEMAS
 MATERIA : TECNOLOGIAS EMERGENTES II
 
 BASE DE DATOS:
-bd_blog.sql
+
+[Contribution guidelines for this project](bd_blog.sql)
 
 
 Imagenes :
